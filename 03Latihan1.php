@@ -1,4 +1,4 @@
-<?
+<?php
 $ball ='purple';
 //Coba ubah ke "yellow",blue","green","purple", atau warna lain
 if($ball=='red'){
