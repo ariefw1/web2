@@ -1,3 +1,2 @@
-Hello, THis is a test file.
-There are Three lines here.
-This is the last line.
+bisa, hanya saja untuk memulihkan data yang telah terhapus dari table, model recovery database nya harus full atau bulk-logged
+bila menggunakan model recovery simple tidak akan mampu mendukung back up log transaksi.

@@ -7,4 +7,4 @@ function Test() {
 Test(){
 echo "Nilai A luar fungsi =$A \n";
 }
->?
+?>
